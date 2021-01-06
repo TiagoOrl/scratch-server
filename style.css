@@ -1,0 +1,39 @@
+
+body {
+    background-color: rgb(219, 219, 219);
+}
+
+h1 {
+  padding: 10pt 8pt;  
+  font-family: 'Lucida Sans', 'Lucida Sans Regular';
+  color: rgb(37, 37, 37);
+
+}
+
+h1:hover {
+    background-color: rgb(255, 239, 203);
+}
+
+img {
+    margin-bottom: 20pt;
+}
+
+a {
+    margin: 20pt 10pt;
+    padding: 8pt 10pt;
+    border-radius: 20pt;
+    border-width: 1pt;
+    border-style: dashed;
+    background-color: bisque;
+}
+
+a:hover {
+    background-color: rgb(142, 142, 142);
+}
+
+
+article {
+    padding: 10pt 8pt;
+    width: 50%;
+    background-color: antiquewhite;
+}
